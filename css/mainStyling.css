@@ -1,0 +1,63 @@
+
+		table{
+			width : 100%;
+			border-collapse : collapse;
+		}
+		
+		td{
+			vertical-align : top;
+			padding : 5px 20px;
+			font-size:18px;
+		}
+		
+		h2{
+			text-align : left;
+			font-size : 20px;
+		}
+		
+		
+		.firstCOL{
+			width: 35%;
+			background-color: #bfbfbf;
+		}
+	
+		iframe{
+			width : 250px;
+			height : 150px;
+			border : 5px solid #e6e6e6;
+			margin-top : 5px;
+			
+		}
+		
+		li{
+			margin-top : 5px;
+		}
+		
+		ul{
+			margin-top : 10px;
+		}
+		
+		meter::-webkit-meter-optimum-value {background: black;}/*Making the meter black,in default it is green*/
+		meter{
+			width : 200px;	
+		}
+		
+		.book{
+			width : 80px;
+			height : 100px;
+			margin : 8px;
+			border : 1px solid black;
+		}
+		
+		video{
+			width : 295px;
+			height : 166px;
+			border : 1px solid white;
+			margin : 5px;
+		}
+		
+		audio{
+			width : 290px;
+			height : 30px;
+			margin : 10px;
+		}

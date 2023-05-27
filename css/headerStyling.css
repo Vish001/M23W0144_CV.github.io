@@ -1,0 +1,43 @@
+		.CVbody {
+			width : 75%;/*making cv width 75% of the displaying screen*/
+			border : 2px solid black;
+			padding : 5px;
+		}
+		
+		header{
+			background-color :  #bfbfbf;
+			padding : 20px;
+		}
+		
+		#profilePic {
+			border : 1px solid white;
+			border-radius : 50%;/*Using rounded corners as 50% to crop image into a circle*/
+			width : 20%;
+			height : 20%;
+			display : block;
+			float : left;
+			margin : 10px;
+			padding : 5px;
+		}
+		
+		h1 {
+			text-align : left;
+			font-size : 30px;
+			background-color : #8c8c8c;
+			width : 80%;
+			padding : 5px;
+			font-style : Georgia (serif);
+		}
+		
+		#description{
+			padding : 5px;
+			text-align : justify;
+			font-size : 20px;
+			width : 80%;
+			margin-bottom : 30px;
+			font-style : Georgia (serif);
+		}
+		
+		
+		
+		
